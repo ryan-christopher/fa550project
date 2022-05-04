@@ -571,7 +571,8 @@ ul {
     }
 
     ul {
-        width: 75vw;
+        width: 80vw;
+        margin-left: 5vw;
         font-size: 17px;
     }
 
