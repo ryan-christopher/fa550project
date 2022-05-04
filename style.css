@@ -551,4 +551,9 @@ ul {
         font-size: 35px;
     }
 
+    ul {
+        width: 95vw;
+        font-size: 20px;
+    }
+
 }
