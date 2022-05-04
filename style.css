@@ -530,14 +530,15 @@ ul {
     }
 
     .content {
-        padding-left: 3px;
-        padding-right: 3px;
+        padding-left: 2.5vw;
+        padding-right: 2.5vw;
         padding-top: 10px;
         padding-bottom: 10px;
+        width: 95vw;
     }
 
     h3 {
-        font-size: 12px;
+        font-size: 13px;
     }
 
     .projecticon {
