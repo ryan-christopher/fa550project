@@ -522,7 +522,7 @@ ul {
 
     .sec {
         background-size: auto;
-        background-attachment: scroll;
+        background-attachment: fixed;
         background-color: black;
     }
 
